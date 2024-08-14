@@ -75,7 +75,7 @@ const CONFIG = {
   //  skype: '',
   //  telegram: '',
    // website: 'https://www.arifszn.com',
-  //  phone: '',
+    phone: '',
     email: 'srenikunta@ufl.edu',
   },
   resume: {
