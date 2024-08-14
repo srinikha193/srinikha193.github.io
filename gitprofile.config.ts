@@ -17,17 +17,17 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
+        limit: 30, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
+          forks: true, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
-      manual: {
+    //  manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
-      },
-    },
+      // projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+     // },
+  //  },
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
@@ -58,25 +58,25 @@ const CONFIG = {
   },
   social: {
     linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+  //  twitter: 'arif_szn',
+  //  mastodon: 'arifszn@mastodon.social',
+  //  researchGate: '',
+  //  facebook: '',
+  //  instagram: '',
+  //  reddit: '',
+  //  threads: '',
+  //  youtube: '', // example: 'pewdiepie'
+   // udemy: '',
+   // dribbble: '',
+ //   behance: '',
+ //   medium: 'arifszn',
+  //  dev: 'arifszn',
+   // stackoverflow: '', // example: '1/jeff-atwood'
+  //  skype: '',
+  //  telegram: '',
+   // website: 'https://www.arifszn.com',
+  //  phone: '',
+    email: 'srenikunta@ufl.edu',
   },
   resume: {
     fileUrl:
