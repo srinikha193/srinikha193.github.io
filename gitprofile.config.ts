@@ -85,7 +85,7 @@ const CONFIG = {
   skills: [
     'Python',
     'R',
-    'Fortran'
+    'Fortran',
     'Java',
     'C++',
     'JavaScript',
