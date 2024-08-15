@@ -173,7 +173,7 @@ const CONFIG = {
   hotjar: {
     id: '',
     snippetVersion: 6,
-  },
+  },/*
   themeConfig: {
     defaultTheme: 'lofi',
 
@@ -235,7 +235,7 @@ const CONFIG = {
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
-  },
+  },*/
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
