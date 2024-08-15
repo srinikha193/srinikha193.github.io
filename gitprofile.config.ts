@@ -27,7 +27,7 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
-    },
+    },/*
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
@@ -49,16 +49,16 @@ const CONFIG = {
           link: 'https://example.com',
         },
       ],
-    },
+    },*/
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Srinikha Renikunta',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'srinikha-renikunta',
+    /*twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
@@ -75,12 +75,12 @@ const CONFIG = {
     skype: '',
     telegram: '',
     website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    phone: '',*/
+    email: 'srenikunta@ufl.edu',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1wRUJOBvV53wvwYWbT7R73wkrB2-GLevU/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
