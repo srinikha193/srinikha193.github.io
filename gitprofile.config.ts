@@ -83,38 +83,41 @@ const CONFIG = {
       'https://drive.google.com/file/d/1wRUJOBvV53wvwYWbT7R73wkrB2-GLevU/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Python',
+    'R',
+    'Fortran'
+    'Java',
+    'C++',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'scientific python stack',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Cassandra',
+    'Tableau',
+    'Power BI',
+    'Statistical Modeling',
+    'Git Version Control',
+    'Machine Learning',
+    'NLP',
+    'Microsoft project management',
+    'OpenCV',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'University of Florida',
+      position: 'student Data Analyst/Scientist',
+      from: 'January 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'ADP',
+      position: 'Data Miner',
+      from: 'August 2021',
+      to: 'December 2022',
+      companyLink: '',
     },
   ],
-  certifications: [
+ /* certifications: [
     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
@@ -122,21 +125,22 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
+  */
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Florida',
+      degree: 'Master of Science',
+      from: '2023',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Jawaharlal Nehru Technological University',
+      degree: 'Bachelor of Technology',
+      from: '2017',
+      to: '2021',
     },
   ],
-  publications: [
+  /*publications: [
     {
       title: 'Publication Title',
       conferenceName: '',
@@ -161,7 +165,7 @@ const CONFIG = {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
-  },
+  },*/
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
