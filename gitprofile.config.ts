@@ -126,9 +126,15 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'coursera',
-      body: 'Lorem ipsum dolor sit ame',
-      year: 'March 2022',
+      name: 'Microsoft Verzeo',
+      body: 'Python for Datascience',
+      year: 'Sep 2019',
+      link: 'https://example.com',
+    },
+    {
+      name: 'NPTEL',
+      body: 'Natural Language Processing',
+      year: 'Nov 2019',
       link: 'https://example.com',
     },
   ],
