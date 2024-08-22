@@ -116,16 +116,23 @@ const CONFIG = {
       to: 'December 2022',
       companyLink: '',
     },
+        {
+      company: 'Swecha Org',
+      position: 'Data Science Intern',
+      from: 'May 2018',
+      to: 'August 2018',
+      companyLink: '',
+    },
   ],
- /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: 'coursera',
+      body: 'Lorem ipsum dolor sit ame',
       year: 'March 2022',
       link: 'https://example.com',
     },
   ],
-  */
+  
   educations: [
     {
       institution: 'University of Florida',
