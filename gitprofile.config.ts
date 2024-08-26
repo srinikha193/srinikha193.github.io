@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-       projects: ['srinikha193/Covid19_EDA-Modeling', 'srinikha193/Bank-Loan-Dashboard-Tableau-SQL', 'srinikha193/TimeSeriesForecasting','srinikha193/Customer-Churn_Prediction_classification','srinikha193/Diabetes_Prediction','srinikha193/Face-Mask-ClassifierFace-Mask-Classifier'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+       projects: ['srinikha193/Covid19_EDA-Modeling', 'srinikha193/Bank-Loan-Dashboard-Tableau-SQL', 'srinikha193/TimeSeriesForecasting','srinikha193/Customer-Churn_Prediction_classification','srinikha193/Diabetes_Prediction','srinikha193/Face-Mask-Classifier'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },/*
     external: {
