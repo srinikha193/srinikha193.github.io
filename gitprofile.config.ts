@@ -103,7 +103,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/drive/u/0/my-drive/Srinikha_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
