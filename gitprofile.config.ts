@@ -28,7 +28,7 @@ const CONFIG = {
     },
   ],*/
   // Display articles from your medium or dev account. (Optional)
-/*  blog: {
+    /*  blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
@@ -178,7 +178,7 @@ const CONFIG = {
   ],
   Summary: [
     {
-      title: 'Hi ,I am Srinikha',
+      title: 'Hi ,I am Srinikha',},
    /* //  description:
       //  'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     },
@@ -190,9 +190,9 @@ const CONFIG = {
       link: 'https://example.com',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+    },*/
   ],
-  // Display articles from your medium or dev account. (Optional)
+  /*// Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
@@ -205,7 +205,7 @@ const CONFIG = {
   hotjar: {
     id: '',
     snippetVersion: 6,*/
-  },
+  
   themeConfig: {
     defaultTheme: 'procyon',
 
