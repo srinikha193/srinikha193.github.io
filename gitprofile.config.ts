@@ -60,7 +60,7 @@ const CONFIG = {
           description:
             'AWS Solutions Architect - Associate',
           imageUrl:
-            'https://www.credly.com/badges/f1a40c2a-3e21-45fd-a6b0-a852ae602711/public_url',
+            'https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png',
           link: 'https://www.credly.com/badges/f1a40c2a-3e21-45fd-a6b0-a852ae602711/public_url',
         },
         {
