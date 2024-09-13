@@ -52,24 +52,24 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'My Certifications',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'AWS SAA-03',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'AWS Solutions Architect - Associate',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://www.credly.com/badges/f1a40c2a-3e21-45fd-a6b0-a852ae602711/public_url',
+          link: 'https://www.credly.com/badges/f1a40c2a-3e21-45fd-a6b0-a852ae602711/public_url',
         },
         {
-          title: 'Project Name',
+          title: 'BCG',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Data Science Job Simulation',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_kFepDsghtqZGvkSeq_1726172448392_completion_certificate.pdf',
+          link: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_kFepDsghtqZGvkSeq_1726172448392_completion_certificate.pdf',
         },
       ],
     },
@@ -147,7 +147,7 @@ const CONFIG = {
       companyLink: '',
     },
   ],
-  certifications: [
+  /*certifications: [
     {
       name: 'Microsoft Verzeo',
       body: 'Python for Datascience',
@@ -161,7 +161,7 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
-  
+  */
   educations: [
     {
       institution: 'University of Florida',
