@@ -50,7 +50,7 @@ const CONFIG = {
         // Properties for manually specifying projects
        projects: ['srinikha193/Covid19_EDA-Modeling', 'srinikha193/Bank-Loan-Dashboard-Tableau-SQL', 'srinikha193/TimeSeriesForecasting','srinikha193/Customer-Churn_Prediction_classification','srinikha193/Diabetes_Prediction','srinikha193/Face-Mask-Classifier'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
-    },/*
+    },
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
@@ -72,7 +72,7 @@ const CONFIG = {
           link: 'https://example.com',
         },
       ],
-    },*/
+    },
   },
   seo: {
     title: 'Portfolio of Srinikha Renikunta',
@@ -192,7 +192,7 @@ const CONFIG = {
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     },*/
   ],
-  // Display articles from your medium or dev account. (Optional)
+  /*// Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
@@ -204,7 +204,7 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
     id: '',
-    snippetVersion: 6,
+    snippetVersion: 6,*/
   
   themeConfig: {
     defaultTheme: 'procyon',
