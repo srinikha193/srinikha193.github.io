@@ -28,11 +28,11 @@ const CONFIG = {
     },
   ],*/
   // Display articles from your medium or dev account. (Optional)
-     blog: {
+     /*blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
-  },
+  },*/
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -51,7 +51,7 @@ const CONFIG = {
        projects: ['srinikha193/Covid19_EDA-Modeling', 'srinikha193/Bank-Loan-Dashboard-Tableau-SQL', 'srinikha193/TimeSeriesForecasting','srinikha193/Customer-Churn_Prediction_classification','srinikha193/Diabetes_Prediction','srinikha193/Face-Mask-Classifier'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
-    /*external: {
+    external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
@@ -73,7 +73,7 @@ const CONFIG = {
         },
       ],
     },
-  },*/
+  },
   seo: {
     title: 'Portfolio of Srinikha Renikunta',
     description: '',
