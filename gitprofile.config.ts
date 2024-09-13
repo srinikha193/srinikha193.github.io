@@ -68,7 +68,7 @@ const CONFIG = {
           description:
             'Data Science Job Simulation',
           imageUrl:
-            'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_kFepDsghtqZGvkSeq_1726172448392_completion_certificate.pdf',
+            'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/BCG_Corporate_Logo.jpg/480px-BCG_Corporate_Logo.jpg',
           link: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_kFepDsghtqZGvkSeq_1726172448392_completion_certificate.pdf',
         },
       ],
