@@ -51,11 +51,7 @@ const CONFIG = {
        projects: ['srinikha193/Covid19_EDA-Modeling', 'srinikha193/Bank-Loan-Dashboard-Tableau-SQL', 'srinikha193/TimeSeriesForecasting','srinikha193/Customer-Churn_Prediction_classification','srinikha193/Diabetes_Prediction','srinikha193/Face-Mask-Classifier'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
-<<<<<<< HEAD
-    external: {
-=======
     /*external: {
->>>>>>> b1fdfbab4cdfb7abdc0bf3a48ffbe2ecb6660508
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
@@ -77,11 +73,7 @@ const CONFIG = {
         },
       ],
     },
-<<<<<<< HEAD
-  },
-=======
   },*/
->>>>>>> b1fdfbab4cdfb7abdc0bf3a48ffbe2ecb6660508
   seo: {
     title: 'Portfolio of Srinikha Renikunta',
     description: '',
