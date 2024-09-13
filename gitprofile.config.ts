@@ -33,6 +33,29 @@ const CONFIG = {
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },*/
+      external: {
+      header: 'My Certifications',
+      // To hide the `External Projects` section, keep it empty.
+      projects: [
+        {
+          title: 'AWS SAA-03',
+          description:
+            'AWS Solutions Architect - Associate Certificate',
+          imageUrl:
+            'https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png',
+          link: 'https://www.credly.com/badges/f1a40c2a-3e21-45fd-a6b0-a852ae602711/public_url',
+        },
+        {
+          title: 'BCG',
+          description:
+            'Data Science Job Simulation Certificate',
+          imageUrl:
+            'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/BCG_Corporate_Logo.jpg/480px-BCG_Corporate_Logo.jpg',
+          link: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_kFepDsghtqZGvkSeq_1726172448392_completion_certificate.pdf',
+        },
+      ],
+    },
+  },
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -48,32 +71,9 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-       projects: ['srinikha193/Covid19_EDA-Modeling', 'srinikha193/Bank-Loan-Dashboard-Tableau-SQL', 'srinikha193/TimeSeriesForecasting','srinikha193/Customer-Churn_Prediction_classification','srinikha193/Diabetes_Prediction','srinikha193/Face-Mask-Classifier'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+       projects: ['srinikha193/Covid19_EDA-Modeling', 'srinikha193/Bank-Loan-Dashboard-Tableau-SQL', 'srinikha193/TimeSeriesForecasting','srinikha193/Customer-Churn_Prediction_classification','srinikha193/Diabetes_Prediction','srinikha193/Face-Mask-Classifier','sentiment_analysis','Marketing_Methodolgy'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
-    external: {
-      header: 'My Certifications',
-      // To hide the `External Projects` section, keep it empty.
-      projects: [
-        {
-          title: 'AWS SAA-03',
-          description:
-            'AWS Solutions Architect - Associate',
-          imageUrl:
-            'https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png',
-          link: 'https://www.credly.com/badges/f1a40c2a-3e21-45fd-a6b0-a852ae602711/public_url',
-        },
-        {
-          title: 'BCG',
-          description:
-            'Data Science Job Simulation',
-          imageUrl:
-            'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/BCG_Corporate_Logo.jpg/480px-BCG_Corporate_Logo.jpg',
-          link: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_kFepDsghtqZGvkSeq_1726172448392_completion_certificate.pdf',
-        },
-      ],
-    },
-  },
   seo: {
     title: 'Portfolio of Srinikha Renikunta',
     description: '',
@@ -127,7 +127,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'University of Florida',
-      position: 'student Data Analyst/Scientist',
+      position: 'Graduate Student Assistant',
       from: 'January 2023',
       to: 'Present',
       companyLink: '',
