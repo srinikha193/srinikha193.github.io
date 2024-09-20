@@ -56,23 +56,20 @@ const CONFIG = {
       header: 'My Certifications',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        {
-          title: 'AWS SAA-03',
-          description:
-            'AWS Solutions Architect - Associate Certification',
-          imageUrl:
-            'https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png',
-          link: 'https://www.credly.com/badges/f1a40c2a-3e21-45fd-a6b0-a852ae602711/public_url',
-        },
-        {
-          title: 'BCG',
-          description:
-            'Data Science Job Simulation Certification',
-          imageUrl:
-            'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/BCG_Corporate_Logo.jpg/480px-BCG_Corporate_Logo.jpg',
-          link: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_kFepDsghtqZGvkSeq_1726172448392_completion_certificate.pdf',
-        },
-      ],
+      {
+        title: 'AWS SAA-03',
+        description: 'AWS Solutions Architect - Associate Certification',
+        imageUrl: 'https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png', // Ensure this URL works directly
+        link: 'https://www.credly.com/badges/f1a40c2a-3e21-45fd-a6b0-a852ae602711/public_url',
+      },
+      {
+        title: 'BCG',
+        description: 'Data Science Job Simulation Certification',
+        imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/BCG_Corporate_Logo.jpg/480px-BCG_Corporate_Logo.jpg', // Check if this URL loads the image directly
+        link: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_kFepDsghtqZGvkSeq_1726172448392_completion_certificate.pdf',
+      },
+    ],
+
     },
   },
   seo: {
