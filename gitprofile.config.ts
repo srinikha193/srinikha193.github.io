@@ -125,14 +125,14 @@ const CONFIG = {
   experiences: [
     {
       company: 'University of Florida',
-      position: 'Graduate Student Assistant',
+      position: 'Data Scientist',
       from: 'January 2023',
       to: 'Present',
       companyLink: '',
     },
     {
       company: 'ADP',
-      position: 'Data Miner',
+      position: 'Data Scientist',
       from: 'August 2021',
       to: 'December 2022',
       companyLink: '',
